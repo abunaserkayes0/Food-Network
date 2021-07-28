@@ -146,7 +146,7 @@ header{
 .introduction-area{
     display:flex;
 }
-.half-div .intro-image{
+.half-div .introduction-image{
     width: 650px;
     border-radius: 10px;
 }

@@ -78,7 +78,7 @@ section {
 .menu-bar li a:hover{
     color: #000;
 }
-header {
+header{
     display: flex;
 }
 
@@ -142,6 +142,13 @@ header {
 .recipe-description>p{
     line-height:1.5;
     font-size:17px;
+}
+.introduction-area{
+    display:flex;
+}
+.half-div .intro-image{
+    width: 650px;
+    border-radius: 10px;
 }
 .review-area{
     display: flex;

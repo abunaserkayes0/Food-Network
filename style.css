@@ -66,13 +66,13 @@ section {
 
 .menu-bar li {
     display: inline-block;
-    margin: 45px 45px 0 45px;
+    margin: 45px 45px 0 20px;
 }
 
 .menu-bar li a {
     text-decoration: none;
     color: #575757;
-    font-size: 1.7em;
+    font-size: 1.5em;
     font-weight: bold;
 }
 .menu-bar li a:hover{
@@ -145,6 +145,7 @@ header{
 }
 .introduction-area{
     display:flex;
+    margin-left: 1%;
 }
 .half-div .introduction-image{
     width: 650px;
@@ -183,11 +184,13 @@ header{
 
 footer{
     background: #0B0D17;
-    padding:7%;
+    padding:5%;
     text-align: center;
     margin-top: 5%;
 }
 .footer-tittle p{
     color: #FFFF;
     margin:2% 0;
+    letter-spacing:2px;
+    font-weight: bold;
 }
